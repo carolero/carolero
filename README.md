@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolero&show_icons=true&theme=radical)
 
-##Hey there, I'm Carol! 👋
+## Hey there, I'm Carol! 👋
 
 Welcome to my GitHub profile! I'm thrilled to have you here. Allow me to introduce myself and give you a glimpse into my journey as a Java/Kotlin backend developer.
 
