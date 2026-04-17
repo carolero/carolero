@@ -1,4 +1,4 @@
-> "The road goes ever on and on, down from the door where it began." - **J.R.R. Tolkien**, The Lord of the Rings
+> "If you no longer go for a gap that exists, you’re no longer a racing driver." - **Ayrton Senna**
 
 ## Hey there, I'm Carol! 👋
 
