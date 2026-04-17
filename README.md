@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Allow me to introdu
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolero&show_icons=true&theme=tokyonight)
 
-<br>
-
 #### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinaeroliveira/)
